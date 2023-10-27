@@ -1,0 +1,100 @@
+{"name": "Andrew", "attributes": ["news", "male"], "100_year_rank": 19}
+{"name": "Benjamin", "attributes": ["news", "male"], "100_year_rank": 42}
+{"name": "Bernie", "attributes": ["news", "male"]}
+{"name": "Bill", "attributes": ["news", "male"]}
+{"name": "Boris", "attributes": ["news", "male"]}
+{"name": "Brett", "attributes": ["news", "male"]}
+{"name": "Donald", "attributes": ["news", "male"], "100_year_rank": 15}
+{"name": "George", "attributes": ["news", "male"], "100_year_rank": 22}
+{"name": "Harvey", "attributes": ["news", "male"]}
+{"name": "James", "attributes": ["news", "male"], "100_year_rank": 1}
+{"name": "Jeff", "attributes": ["news", "male"]}
+{"name": "John", "attributes": ["news", "male"], "100_year_rank": 2}
+{"name": "Kevin", "attributes": ["news", "male"], "100_year_rank": 23}
+{"name": "Mark", "attributes": ["news", "male"], "100_year_rank": 16}
+{"name": "Michael", "attributes": ["news", "male"], "100_year_rank": 4}
+{"name": "Paul", "attributes": ["news", "male"], "100_year_rank": 17}
+{"name": "Robert", "attributes": ["news", "male"], "100_year_rank": 3}
+{"name": "Ronald", "attributes": ["news", "male"], "100_year_rank": 26}
+{"name": "Roy", "attributes": ["news", "male"], "100_year_rank": 88}
+{"name": "Steve", "attributes": ["news", "male"]}
+{"name": "Jared", "attributes": ["news", "male"]}
+{"name": "Barack", "attributes": ["news", "male"]}
+{"name": "Rudy", "attributes": ["news", "male"]}
+{"name": "Chuck", "attributes": ["news", "male"]}
+{"name": "Mitch", "attributes": ["news", "male"]}
+{"name": "Rick", "attributes": ["news", "male"]}
+{"name": "Brett", "attributes": ["news", "male"]}
+{"name": "Marco", "attributes": ["news", "male"]}
+{"name": "William", "attributes": ["male"], "100_year_rank": 5}
+{"name": "David", "attributes": ["male"], "100_year_rank": 6}
+{"name": "Richard", "attributes": ["male"], "100_year_rank": 7}
+{"name": "Joseph", "attributes": ["male"], "100_year_rank": 8}
+{"name": "Thomas", "attributes": ["male"], "100_year_rank": 9}
+{"name": "Charles", "attributes": ["male"], "100_year_rank": 10}
+{"name": "Christopher", "attributes": ["male"], "100_year_rank": 11}
+{"name": "Daniel", "attributes": ["male"], "100_year_rank": 12}
+{"name": "Matthew", "attributes": ["male"], "100_year_rank": 13}
+{"name": "Anthony", "attributes": ["male"], "100_year_rank": 14}
+{"name": "Steven", "attributes": ["male"], "100_year_rank": 18}
+{"name": "Kenneth", "attributes": ["male"], "100_year_rank": 20}
+{"name": "Joshua", "attributes": ["male"], "100_year_rank": 21}
+{"name": "Brian", "attributes": ["male"], "100_year_rank": 24}
+{"name": "Edward", "attributes": ["male"], "100_year_rank": 25}
+{"name": "Timothy", "attributes": ["male"], "100_year_rank": 27}
+{"name": "Jason", "attributes": ["male"], "100_year_rank": 28}
+{"name": "Jeffrey", "attributes": ["male"], "100_year_rank": 29}
+{"name": "Ryan", "attributes": ["male"], "100_year_rank": 30}
+{"name": "Jacob", "attributes": ["male"], "100_year_rank": 31}
+{"name": "Gary", "attributes": ["male"], "100_year_rank": 32}
+{"name": "Nicholas", "attributes": ["male"], "100_year_rank": 33}
+{"name": "Angela", "attributes": ["news", "female"], "100_year_rank": 35}
+{"name": "Christine", "attributes": ["news", "female"], "100_year_rank": 43}
+{"name": "Elizabeth", "attributes": ["news", "female"], "100_year_rank": 5}
+{"name": "Hillary", "attributes": ["news", "female"]}
+{"name": "Irma", "attributes": ["news", "female"]}
+{"name": "Meghan", "attributes": ["news", "female"]}
+{"name": "Nancy", "attributes": ["news", "female"], "100_year_rank": 11}
+{"name": "Susan", "attributes": ["news", "female"], "100_year_rank": 7}
+{"name": "Theresa", "attributes": ["news", "female"], "100_year_rank": 85}
+{"name": "Sarah", "attributes": ["news", "female"], "100_year_rank": 9}
+{"name": "Lindsey", "attributes": ["news", "female"]}
+{"name": "Dianne", "attributes": ["news", "female"]}
+{"name": "Mary", "attributes": ["female"], "100_year_rank": 1}
+{"name": "Patricia", "attributes": ["female"], "100_year_rank": 2}
+{"name": "Jennifer", "attributes": ["female"], "100_year_rank": 3}
+{"name": "Linda", "attributes": ["female"], "100_year_rank": 4}
+{"name": "Barbara", "attributes": ["female"], "100_year_rank": 6}
+{"name": "Jessica", "attributes": ["female"], "100_year_rank": 8}
+{"name": "Sarah", "attributes": ["female"], "100_year_rank": 9}
+{"name": "Karen", "attributes": ["female"], "100_year_rank": 10}
+{"name": "Margaret", "attributes": ["female"], "100_year_rank": 12}
+{"name": "Lisa", "attributes": ["female"], "100_year_rank": 13}
+{"name": "Betty", "attributes": ["female"], "100_year_rank": 14}
+{"name": "Dorothy", "attributes": ["female"], "100_year_rank": 15}
+{"name": "Sandra", "attributes": ["female"], "100_year_rank": 16}
+{"name": "Ashley", "attributes": ["female"], "100_year_rank": 17}
+{"name": "Kimberly", "attributes": ["female"], "100_year_rank": 18}
+{"name": "Donna", "attributes": ["female"], "100_year_rank": 19}
+{"name": "Emily", "attributes": ["female"], "100_year_rank": 20}
+{"name": "Michelle", "attributes": ["female"], "100_year_rank": 21}
+{"name": "Carol", "attributes": ["female"], "100_year_rank": 22}
+{"name": "Amanda", "attributes": ["female"], "100_year_rank": 23}
+{"name": "Melissa", "attributes": ["female"], "100_year_rank": 24}
+{"name": "Deborah", "attributes": ["female"], "100_year_rank": 25}
+{"name": "Stephanie", "attributes": ["female"], "100_year_rank": 26}
+{"name": "Rebecca", "attributes": ["female"], "100_year_rank": 27}
+{"name": "Laura", "attributes": ["female"], "100_year_rank": 28}
+{"name": "Sharon", "attributes": ["female"], "100_year_rank": 29}
+{"name": "Cynthia", "attributes": ["female"], "100_year_rank": 30}
+{"name": "Kathleen", "attributes": ["female"], "100_year_rank": 31}
+{"name": "Helen", "attributes": ["female"], "100_year_rank": 32}
+{"name": "Amy", "attributes": ["female"], "100_year_rank": 33}
+{"name": "Shirley", "attributes": ["female"], "100_year_rank": 34}
+{"name": "Anna", "attributes": ["female"], "100_year_rank": 36}
+{"name": "Brenda", "attributes": ["female"], "100_year_rank": 37}
+{"name": "Pamela", "attributes": ["female"], "100_year_rank": 38}
+{"name": "Nicole", "attributes": ["female"], "100_year_rank": 39}
+{"name": "Ruth", "attributes": ["female"], "100_year_rank": 40}
+{"name": "Katherine", "attributes": ["female"], "100_year_rank": 41}
+{"name": "Samantha", "attributes": ["female"], "100_year_rank": 42}
